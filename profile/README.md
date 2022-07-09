@@ -1,5 +1,6 @@
+<br>
 <p align="center">
-    <img src="https://i.imgur.com/qPLtcvc.png" width = 190rem/>
+    <img src="https://i.imgur.com/WxkW0lI.png" width = 130rem/>
 </p>
 <br>
 <h2 align="center"> <b>Moonlight</b> </h2>
@@ -10,8 +11,6 @@ One day I saw <a href="https://kbdfans.com/products/ic-gmk-moonlight">Moonlight 
 after a while, I made some wallpapers and then designed some themes for several ports all have moonlight colors in common, then I came up with the color theme:
 <br>
 <div align="center">
-<img  src="https://i.imgur.com/2eKAyyi.png" width = 500rem />
-<span align="center">
+<img  src="https://i.imgur.com/nj27jHN.png" width = 500rem />
 </div>
-</span>
 </p>

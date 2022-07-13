@@ -8,7 +8,7 @@
 <div align="center">
 <a href="https://twitter.com/ColorMoonlight">
 <img  src="https://i.imgur.com/8ITOrFV.png" width = 20rem />
-</a>&nbsp&nbsp&nbsp
+</a> &nbsp&nbsp&nbsp
 <a href="https://moonlight.nicepage.io">
 <img  src="https://i.imgur.com/TGt9Aop.png" width = 20rem />
 </a>

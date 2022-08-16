@@ -1,4 +1,4 @@
-![Color theme is still in development](https://i.imgur.com/oHukwmD.png)
+<!-- ![Color theme is still in development](https://i.imgur.com/oHukwmD.png)-->
 <br>
 <p align="center">
     <img src="https://i.imgur.com/WxkW0lI.png" width = 130rem/>

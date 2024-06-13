@@ -20,7 +20,9 @@
 <br>
 <p>
 A camping-vibes, dark-blue, dark yellow color palette.<br>
-created to keep your workspace clean and minimal, with well-designed contrasted colors, and a convenient palette...
+Created to keep your workspace clean and minimal, with well-designed contrasted colors, and a convenient palette...<br>
+Consisting of three dark soft blue colors followed by three contrary light colors, and a dark yellow accent color with brightness variation, finished with a frill coloring to the palette to give it the shine...<br>
+Picking these colors was accompanied by care for the color-coding potential, the convenience of coordination, and the eye-comfortability...
 </p>
 <h3>Moonlight birth story</h3>
 <p >
